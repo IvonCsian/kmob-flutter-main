@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>575341164545-v09cah1pof88tj2efdeu95juvm5jjpjo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.575341164545-v09cah1pof88tj2efdeu95juvm5jjpjo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRuJgx7morGRa_5lMXXjFwFcQddHuj4qw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>575341164545</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.k3pg.kmob</string>
+	<key>PROJECT_ID</key>
+	<string>k-mobile-240607</string>
+	<key>STORAGE_BUCKET</key>
+	<string>k-mobile-240607.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:575341164545:ios:5cdcdc603581a0f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://k-mobile-240607.firebaseio.com</string>
+</dict>
+</plist>

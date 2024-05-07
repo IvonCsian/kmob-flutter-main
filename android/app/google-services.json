@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575341164545",
+    "firebase_url": "https://k-mobile-240607.firebaseio.com",
+    "project_id": "k-mobile-240607",
+    "storage_bucket": "k-mobile-240607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575341164545:android:5cdcdc603581a0f2",
+        "android_client_info": {
+          "package_name": "com.k3pg.kmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575341164545-n7nk23t68ffc3kdvqream7bk7n3brh56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLWtwD1fZWYisNCdrFz3VsD1eA8XCYtbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575341164545-n7nk23t68ffc3kdvqream7bk7n3brh56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
